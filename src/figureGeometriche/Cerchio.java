@@ -20,5 +20,5 @@ public class Cerchio {
         perimetro = (2 * raggio) * 3.14f;
         return perimetro;
     }
-    
+    // funzione per calcolare circonferenza
 }
